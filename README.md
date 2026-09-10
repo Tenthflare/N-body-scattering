@@ -6,7 +6,7 @@ orientation-averaged deflection — built on a **hand-written adaptive Runge–K
 
 Course project — NTU Computational Physics Final Project. All solver and integration code written from first principles.
 
-![Sample scattering trajectory]
+Sample scattering trajectory
 <Figure size 640x480 with 1 Axes><img width="428" height="396" alt="image" src="https://github.com/user-attachments/assets/dd2ca7c4-9c34-462f-9ac7-239994db79c5" />
   
 ## What this demonstrates
